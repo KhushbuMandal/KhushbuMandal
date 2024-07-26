@@ -1,0 +1,19 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Description of your project",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "dependency1": "^1.0.0",
+    "dependency2": "^2.0.0"
+  },
+  "devDependencies": {
+    "devDependency1": "^1.0.0",
+    "devDependency2": "^2.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
