@@ -136,7 +136,7 @@ Websites.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
 | ![Khushbu Mandal github stats](https://github-readme-stats.vercel.app/api?username=KhushbuMandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Khushbu Mandal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhushbuMandal&theme=dark&hide_border=false) |
-
+| -- | -- |
 
 
 
