@@ -110,7 +110,7 @@ Websites.
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| ContentGen AI | [view](https://content-gen-ai-eight.vercel.app/) | [view](https://github.com/KhushbuMandal/ContentGen-AI) | Next.js Javascript TailwindCSS Shadcn UI React.Js PostgreSQL Drizzle ORM Clerk Razorpay Google Gemini API |
+| ContentGen AI | [view](https://content-gen-ai-eight.vercel.app/) | [view](https://github.com/KhushbuMandal/ContentGen-AI) |`Next.js` `TypeScript` `TailwindCSS` `Shadcn UI` `React.Js` `PostgreSQL` `Drizzle ORM` `Clerk` `Razorpay` `Google Gemini API` |
 | Snapgram | [view](https://snap-gram-teal.vercel.app/sign-in) | [view](https://github.com/KhushbuMandal/SnapGram) | React.js React Query TailwindCSS Shadcn UI Appwrite | 
 | FigPro | [view](https://figma-clone-lyart-rho.vercel.app/) | [view](https://github.com/KhushbuMandal/Figma_Clone) | Next.js Typescript Liveblocks TailwindCSS Shadcn UI  | 
 | TechPath | [view](https://tech-path-education-platform.vercel.app/) | [view](https://github.com/KhushbuMandal/TechPath--Education-Platform) | HTML CSS React.js Node.Js MongoDB | 
