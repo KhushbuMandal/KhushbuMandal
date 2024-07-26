@@ -135,13 +135,9 @@ Websites.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbumandal&show_icons=true&locale=en&layout=compact" alt="khushbumandal" /></p>
+| ![Khushbu Mandal github stats](https://github-readme-stats.vercel.app/api?username=KhushbuMandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Khushbu Mandal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhushbuMandal&theme=dark&hide_border=false) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbumandal&show_icons=true&locale=en" alt="khushbumandal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal&" alt="khushbumandal" /></p>
-
-| -- | -- |
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
