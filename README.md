@@ -135,7 +135,10 @@ Websites.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
-| ![Gautam Kumarl github stats](https://github-readme-stats.vercel.app/api?username=gautamkumar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Gautam Kumar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautamkumar1&theme=dark&hide_border=false) |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbumandal&show_icons=true&locale=en&layout=compact" alt="khushbumandal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbumandal&show_icons=true&locale=en" alt="khushbumandal" /></p>
+
 | -- | -- |
 
 
