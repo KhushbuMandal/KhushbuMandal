@@ -69,7 +69,7 @@ Profile : 100+ problems solved, 5⭐ with a 4 Badges 🥇.
   <br>
   
   💜 Competition Zone
-  - Achieved 2 Stars rating on Leetcode.
+  
 
   - Achieved 5 Stars rating on HackerRank.
   - Achieved Specialist Badge on CodeStudio.
