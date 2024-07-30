@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/khushbu-mandal-5a644b312/">
   <img src="https://img.shields.io/badge/Linkedin--brightgreen?style=for-the-badge&logo=Linkedin&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="profile of LinkedIn with username Khushbu" />
   </a>
-  <a href="https://khushbu-profile.vercel.app/"><img src="https://img.shields.io/badge/Portfolio--brightgreen?style=for-the-badge&logo=K&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="profile of Twitter with username xXGauTamxX_" ></a>
+  <a href="https://khushbu-profile.vercel.app/"><img src="https://img.shields.io/badge/Portfolio--brightgreen?style=for-the-badge&logo=K&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="Portfolio of Khushbu" ></a>
 </div>
 <br>
 
