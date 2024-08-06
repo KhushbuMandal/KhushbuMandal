@@ -66,7 +66,7 @@ Profile : 100+ problems solved, 5⭐ with a 4 Badges 🥇.
 
 <details>
   <summary>🏆 Achievements</summary>
-  <br>
+   <br>
   
   💜 Competition Zone
   
