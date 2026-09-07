@@ -16,6 +16,7 @@
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=KhushbuMandal&labelColor=%230a0209&countColor=%230a0209&labelStyle=upper" />
+  
   <br><br>
 
   <a href="https://www.geeksforgeeks.org/user/khushbuma2bzh/"><img src="https://img.shields.io/badge/GFG--brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="profile of GFG with username of Khushbu" ></a>
